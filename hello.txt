@@ -1,5 +1,8 @@
 hello git!!!
 hello yixin!
+<<<<<<< HEAD
 hello lzy!!！master test
-hello lwq!2222
+=======
+hello lwq!2222 hot-fix test
+>>>>>>> hot-fix
 nihao
