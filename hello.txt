@@ -1,5 +1,3 @@
-hello git!!!
-hello yixin!
-hello lzy!!！
-hello lwq!2222 hot-fix test
-nihao
+hello git
+hello git
+hello git hot-fix-test
